@@ -1,0 +1,19 @@
+h1 {
+	color: rgb(98, 0, 255);
+	font-size: 25px;
+}
+/*  */
+p {
+    color:rgb(225, 65, 190)
+}
+#title {
+    color: seagreen;
+    background-color: violet;
+}
+#footer {
+    color: tan;
+    background-color: tomato;
+}
+.green {
+    color: green;
+}
